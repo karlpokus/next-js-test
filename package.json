@@ -1,0 +1,27 @@
+{
+  "name": "next-js-test",
+  "version": "0.1.0",
+  "description": "nextJS testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo noop",
+		"dev": "next",
+		"build": "next build",
+		"start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlpokus/next-js-test.git"
+  },
+  "author": "me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karlpokus/next-js-test/issues"
+  },
+  "homepage": "https://github.com/karlpokus/next-js-test#readme",
+  "dependencies": {
+    "next": "^6.0.3",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  }
+}
