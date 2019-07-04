@@ -1,3 +1,3 @@
 export default (props) => (
-  <h1>{props.url.query.title}</h1>
+  <h1>hi</h1>
 )

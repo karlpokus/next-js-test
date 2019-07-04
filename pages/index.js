@@ -1,4 +1,5 @@
-import Link from 'next/link'
+import Link from 'next/link';
+import Header from '../component/Header';
 
 const Post = (props) => (
   <li>
@@ -10,6 +11,7 @@ const Post = (props) => (
 
 export default () => (
   <div>
+    <Header />
     <h1>My blog</h1>
     <ul>
       <li>
